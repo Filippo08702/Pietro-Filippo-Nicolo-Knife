@@ -4,3 +4,49 @@ background: linear-gradient(90deg, #020024 0%, rgba(9,9,121,1) 0%, rgba(3,139,20
     
 font-family: 'Press Start 2P', cursive;
 }
+
+.level1 {
+position: relative;
+left: 633px;
+top: 120px;
+    text-align: center;
+height: 100px;
+width: 100px;
+}
+
+.level2 {
+    position: relative;
+    left: 633px;
+    top: 140px;
+        text-align: center;
+    height: 100px;
+    width: 100px;
+    }
+    
+.level3 {
+position: relative;
+left: 633px;
+top: 160px;
+    text-align: center;
+height: 100px;
+width: 100px;
+}
+
+.level4 {
+    position: relative;
+    left: 633px;
+    top: 180px;
+        text-align: center;
+    height: 100px;
+    width: 100px;
+    }
+
+.level5 {
+position: relative;
+left: 633px;
+top: 200px;
+    text-align: center;
+height: 100px;
+width: 100px;
+}
+
