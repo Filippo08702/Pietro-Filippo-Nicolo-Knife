@@ -4,3 +4,9 @@ background: linear-gradient(90deg, #020024 0%, rgba(9,9,121,1) 0%, rgba(3,139,20
     
 font-family: 'Press Start 2P', cursive;
 }
+
+.spinnigWood{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
