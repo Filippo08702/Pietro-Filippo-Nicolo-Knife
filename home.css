@@ -1,0 +1,15 @@
+.home {
+    position: relative;
+    left: 300px;
+    width: 800px;
+    height: 800px;
+}
+
+.start {
+    position: relative;
+    left: 643px;
+    top: -300px;
+        text-align: center;
+    height: 100px;
+    width: 100px;
+}

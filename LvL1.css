@@ -10,3 +10,15 @@ font-family: 'Press Start 2P', cursive;
     top: 10%;
     left: 10%;
 }
+
+.goal1 {
+    position: relative;
+    top: auto;
+    left: 593px;
+}
+
+.throw {
+    position: relative;
+bottom: -500px;
+    left: 593px;
+}
